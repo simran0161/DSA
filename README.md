@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
