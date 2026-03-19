@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/simran0161/DSA/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/simran0161/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
 ## Array
 |  |
@@ -42,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/simran0161/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/simran0161/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
