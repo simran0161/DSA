@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Backtracking
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Divide and Conquer
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/simran0161/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
 ## Prefix Sum
 |  |
 | ------- |
