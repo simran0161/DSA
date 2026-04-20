@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/simran0161/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/simran0161/DSA/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/simran0161/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
