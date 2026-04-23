@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/simran0161/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simran0161/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/simran0161/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/simran0161/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/simran0161/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
+| [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
