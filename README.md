@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/simran0161/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/simran0161/DSA/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/simran0161/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/simran0161/DSA/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/simran0161/DSA/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simran0161/DSA/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/simran0161/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
