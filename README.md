@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/simran0161/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0876-middle-of-the-linked-list](https://github.com/simran0161/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simran0161/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0876-middle-of-the-linked-list](https://github.com/simran0161/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
 |  |
 | ------- |
