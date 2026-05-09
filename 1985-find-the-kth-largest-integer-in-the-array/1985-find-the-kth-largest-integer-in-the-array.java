@@ -1,5 +1,10 @@
 class Solution {
     public String kthLargestNumber(String[] nums, int k) {
+        //We must:
+        //Keep numbers as strings
+        //Compare based on:
+        //1. Length
+        //2. If same length → lexicographical comparison
         PriorityQueue<String> pq = new PriorityQueue<>((a, b) -> {
                 if (a.length() != b.length()) {
                     return b.length() - a.length(); 
