@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/simran0161/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran0161/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/simran0161/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simran0161/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/simran0161/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/simran0161/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Backtracking
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/simran0161/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -166,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
