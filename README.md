@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/simran0161/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/simran0161/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/simran0161/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/simran0161/DSA/tree/master/0621-task-scheduler) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simran0161/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/simran0161/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/simran0161/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/simran0161/DSA/tree/master/0621-task-scheduler) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simran0161/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/simran0161/DSA/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/simran0161/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
 |  |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simran0161/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
