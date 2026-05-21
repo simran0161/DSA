@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/simran0161/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/simran0161/DSA/tree/master/0846-hand-of-straights) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran0161/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran0161/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/simran0161/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/simran0161/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/simran0161/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Backtracking
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
