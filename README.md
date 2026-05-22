@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -232,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
