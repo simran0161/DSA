@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/simran0161/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/simran0161/DSA/tree/master/0846-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/simran0161/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran0161/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/simran0161/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/simran0161/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/simran0161/DSA/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/simran0161/DSA/tree/master/0846-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/simran0161/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/simran0161/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/simran0161/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simran0161/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/simran0161/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/simran0161/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/simran0161/DSA/tree/master/1871-jump-game-vii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simran0161/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran0161/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/simran0161/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/simran0161/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran0161/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/simran0161/DSA/tree/master/1871-jump-game-vii) |
