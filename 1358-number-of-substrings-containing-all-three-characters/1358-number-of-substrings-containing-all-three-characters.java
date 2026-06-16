@@ -1,24 +1,24 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int res=0;
-        int l=0;
-        int r=0;
+        int i=0;
+        int j=0;
         int n=s.length();
+        int res=0;
         HashMap<Character,Integer>mp=new HashMap<>();
 
-        while(r<n){
-            char ch=s.charAt(r);
-            mp.put(ch,mp.getOrDefault(ch,0)+1);
+        while(j<n){
+            mp.put(s.charAt(j),mp.getOrDefault(s.charAt(j),0)+1);
 
             while(mp.size()>2){
-                res+=n-r;
-                mp.put(s.charAt(l),mp.get(s.charAt(l))-1);
-                if(mp.get(s.charAt(l))==0){
-                    mp.remove(s.charAt(l));
+                res+=n-j;
+                char rightchar=s.charAt(i);
+                mp.put(rightchar,mp.get(rightchar)-1);
+                if(mp.get(rightchar)==0){
+                    mp.remove(rightchar);
                 }
-                l++;
+                i++;
             }
-            r++;
+            j++;
         }
         return res;
     }
