@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/simran0161/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/simran0161/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/simran0161/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/simran0161/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/simran0161/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/simran0161/DSA/tree/master/0242-valid-anagram) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/simran0161/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/simran0161/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/simran0161/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/simran0161/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simran0161/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/simran0161/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/simran0161/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/simran0161/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/simran0161/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/simran0161/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/simran0161/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/simran0161/DSA/tree/master/0229-majority-element-ii) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/simran0161/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/simran0161/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/simran0161/DSA/tree/master/0451-sort-characters-by-frequency) |
