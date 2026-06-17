@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/simran0161/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simran0161/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/simran0161/DSA/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/simran0161/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/simran0161/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/simran0161/DSA/tree/master/0205-isomorphic-strings) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/simran0161/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simran0161/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/simran0161/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/simran0161/DSA/tree/master/0198-house-robber) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/simran0161/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
