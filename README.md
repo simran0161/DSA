@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/simran0161/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/simran0161/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/simran0161/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/simran0161/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/simran0161/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/simran0161/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/simran0161/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simran0161/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/simran0161/DSA/tree/master/0198-house-robber) |
+| [0403-frog-jump](https://github.com/simran0161/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/simran0161/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/simran0161/DSA/tree/master/1143-longest-common-subsequence) |
