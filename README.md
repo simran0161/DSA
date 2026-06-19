@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simran0161/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/simran0161/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/simran0161/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2498-frog-jump-ii](https://github.com/simran0161/DSA/tree/master/2498-frog-jump-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simran0161/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simran0161/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/simran0161/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/simran0161/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2498-frog-jump-ii](https://github.com/simran0161/DSA/tree/master/2498-frog-jump-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simran0161/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/simran0161/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/simran0161/DSA/tree/master/0846-hand-of-straights) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simran0161/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2498-frog-jump-ii](https://github.com/simran0161/DSA/tree/master/2498-frog-jump-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simran0161/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/simran0161/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Quickselect
