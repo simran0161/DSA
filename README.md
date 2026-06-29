@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simran0161/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/simran0161/DSA/tree/master/0733-flood-fill) |
 ## Matrix
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simran0161/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/simran0161/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/simran0161/DSA/tree/master/0994-rotting-oranges) |
@@ -366,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/simran0161/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/simran0161/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/simran0161/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simran0161/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/simran0161/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
