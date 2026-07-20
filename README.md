@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/simran0161/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/simran0161/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/simran0161/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/simran0161/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/simran0161/DSA/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/simran0161/DSA/tree/master/0846-hand-of-straights) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/simran0161/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/simran0161/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/simran0161/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/simran0161/DSA/tree/master/0994-rotting-oranges) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/simran0161/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/simran0161/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/simran0161/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/simran0161/DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/simran0161/DSA/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/simran0161/DSA/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/simran0161/DSA/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/simran0161/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simran0161/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/simran0161/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/simran0161/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/simran0161/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simran0161/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/simran0161/DSA/tree/master/0733-flood-fill) |
