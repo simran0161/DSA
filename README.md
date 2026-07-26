@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/simran0161/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simran0161/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/simran0161/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/simran0161/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simran0161/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simran0161/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/simran0161/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/simran0161/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simran0161/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/simran0161/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simran0161/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/simran0161/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/simran0161/DSA/tree/master/2498-frog-jump-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simran0161/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/simran0161/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/simran0161/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Quickselect
 |  |
 | ------- |
