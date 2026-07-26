@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/simran0161/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/simran0161/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/simran0161/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/simran0161/DSA/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/simran0161/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simran0161/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/simran0161/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/simran0161/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/simran0161/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/simran0161/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/simran0161/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/simran0161/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/simran0161/DSA/tree/master/0229-majority-element-ii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/simran0161/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/simran0161/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/simran0161/DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/simran0161/DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/simran0161/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/simran0161/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
