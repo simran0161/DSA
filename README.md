@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/simran0161/DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/simran0161/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simran0161/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/simran0161/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/simran0161/DSA/tree/master/0846-hand-of-straights) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/simran0161/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simran0161/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/simran0161/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simran0161/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
