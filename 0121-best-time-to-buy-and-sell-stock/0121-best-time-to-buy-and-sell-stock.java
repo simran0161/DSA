@@ -3,11 +3,13 @@ class Solution {
         int buy=prices[0];
         int profit=0;
 
-        for(int i=0;i<prices.length;i++){
-            if(prices[i]<buy){
-                buy=prices[i];
+        for(int i:prices){
+            if(i<buy){
+                buy=i;
             }
-            profit=Math.max(profit,prices[i]-buy);
+            else{
+                profit=Math.max(profit,i-buy);
+            }
         }
         return profit;
     }
