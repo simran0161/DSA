@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/simran0161/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/simran0161/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/simran0161/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/simran0161/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/simran0161/DSA/tree/master/0189-rotate-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simran0161/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/simran0161/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/simran0161/DSA/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/simran0161/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/simran0161/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/simran0161/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/simran0161/DSA/tree/master/0063-unique-paths-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/simran0161/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/simran0161/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/simran0161/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/simran0161/DSA/tree/master/0073-set-matrix-zeroes) |
