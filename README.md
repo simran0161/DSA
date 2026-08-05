@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/simran0161/DSA/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/simran0161/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/simran0161/DSA/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/simran0161/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/simran0161/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/simran0161/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/simran0161/DSA/tree/master/0242-valid-anagram) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/simran0161/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/simran0161/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/simran0161/DSA/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/simran0161/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/simran0161/DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/simran0161/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/simran0161/DSA/tree/master/0876-middle-of-the-linked-list) |
