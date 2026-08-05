@@ -12,17 +12,20 @@ class Solution {
         return true;
     }
     public String longestPalindrome(String s) {
-        int idx=-1;
-        int len=0;
-
-        for(int i=0;i<s.length();i++){
-            for(int j=i+1;j<=s.length();j++){
-                if(check(s.substring(i,j))&& (j - i) > len){
-                    len=j-i;
-                    idx=i;
+        int n=s.length();
+        int res=0;
+        String result="";
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<=n;j++){
+                String st=s.substring(i,j);
+                if(check(st)){
+                    if (st.length() > res) {      
+                        res = st.length();
+                        result = st;
+                    }
                 }
             }
         }
-        return s.substring(idx,idx+len);
+        return result;
     }
 }
