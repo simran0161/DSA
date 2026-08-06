@@ -13,8 +13,16 @@ class Solution {
         if(head==null || head.next==null){
             return true;
         }
+
+        ListNode slow=head;
+        ListNode fast=head;
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
         
-        ListNode temp=head;
+        ListNode temp=slow;
         ListNode prev=null;
         while(temp!=null){
             ListNode ptr=temp.next;
@@ -23,7 +31,6 @@ class Solution {
             temp=ptr;
         }
 
-        // temp=head;
         while(prev!=null && head!=null){
             if(prev.val!=head.val){
                 return false;
