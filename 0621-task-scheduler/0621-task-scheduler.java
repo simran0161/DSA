@@ -1,43 +1,37 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-        PriorityQueue<Integer>pq=new PriorityQueue<>(Collections.reverseOrder());
-        HashMap<Character,Integer>mp=new HashMap<>();
-
-        for(int i=0;i<tasks.length;i++){
-            mp.put(tasks[i],mp.getOrDefault(tasks[i],0)+1);
+        Map<Character,Integer>mp=new HashMap<>();
+        for(char ch:tasks){
+            mp.put(ch,mp.getOrDefault(ch,0)+1);
         }
 
+        PriorityQueue<Integer>pq=new PriorityQueue<>(Collections.reverseOrder());
+
         for(int i:mp.values()){
-            pq.offer(i);
+            pq.add(i);
         }
 
         int res=0;
-
         while(!pq.isEmpty()){
+            int k=n+1;
             ArrayList<Integer>arr=new ArrayList<>();
-
-            for(int i=1;i<=n+1;i++){
-                if(!pq.isEmpty()){
-                    int ele=pq.poll();
-                    ele--;
-                    arr.add(ele);
-                }
+            while(!pq.isEmpty() && k!=0){
+                int freq=pq.poll();
+                arr.add(freq-1);
+                k--;
             }
-
+            
+            
             for(int i=0;i<arr.size();i++){
-                if(arr.get(i)>0){
-                    pq.offer(arr.get(i));
-                }
+                if(arr.get(i)>0)pq.add(arr.get(i));
             }
 
             if(pq.isEmpty()){
                 res+=arr.size();
-            }
-            else{
+            }else{
                 res+=n+1;
             }
         }
-
         return res;
     }
 }
