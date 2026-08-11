@@ -1,33 +1,26 @@
 class Solution {
     public boolean isNStraightHand(int[] hand, int groupSize) {
-        int len=hand.length;
-        if(len%groupSize!=0){
-            return false;
-        }
-
-        Map<Integer,Integer> mp=new HashMap<>();
-
+        Map<Integer,Integer>mp=new HashMap<>();
         for(int i:hand){
             mp.put(i,mp.getOrDefault(i,0)+1);
         }
 
         PriorityQueue<Integer>pq=new PriorityQueue<>();
         for(int i:mp.keySet()){
-            pq.offer(i);
+            pq.add(i);
         }
 
         while(!pq.isEmpty()){
-            int min=pq.peek();
+            int val=pq.peek();
 
             for(int i=0;i<groupSize;i++){
-                if(!mp.containsKey(min+i)){
+                if(!mp.containsKey(i+val)){
                     return false;
                 }
-                mp.put(min+i,mp.get(min+i)-1);
-
-                if(mp.get(min+i)==0){
-                    mp.remove(min+i);
-                    pq.remove(min+i);
+                mp.put(i+val,mp.get(i+val)-1);
+                if(mp.get(i+val)==0){
+                    mp.remove(i+val);
+                    pq.remove(i+val);
                 }
             }
         }
