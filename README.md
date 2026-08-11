@@ -524,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/simran0161/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/simran0161/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/simran0161/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
