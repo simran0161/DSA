@@ -2,24 +2,26 @@ class Solution {
     public int maxProduct(int[] nums) {
         int maxprefix=Integer.MIN_VALUE;
         int maxsuffix=Integer.MIN_VALUE;
+        int n=nums.length;
 
         int prefix=1;
+
         for(int i:nums){
-            prefix=i*prefix;
-            maxprefix=Math.max(maxprefix,prefix);
-            if(prefix==0){
-                prefix=1;
-            }  
+            prefix*=i;
+            maxprefix=Math.max(prefix,maxprefix);
+            if(prefix==0) prefix=1;
         }
 
         int suffix=1;
-        for(int i=nums.length-1;i>=0;i--){
-            suffix=suffix*nums[i];
-            maxsuffix=Math.max(maxsuffix,suffix);
-            if(suffix==0){
-                suffix=1;
-            }  
+        for(int i=n-1;i>=0;i--){
+            suffix*=nums[i];
+            maxsuffix=Math.max(suffix,maxsuffix);
+            if(suffix==0) suffix=1;
         }
-        return Math.max(maxsuffix,maxprefix);
+
+        System.out.println(maxsuffix);
+        System.out.println(maxprefix);
+
+        return Math.max(maxprefix,maxsuffix);
     }
 }
